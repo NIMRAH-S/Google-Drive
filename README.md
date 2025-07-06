@@ -68,16 +68,16 @@ A fully-featured file management system built in **C++**, simulating core functi
 
 ## 📁 Folder Structure
 
-Root/
-├── folders/
-│ ├── subfolders/
-│ └── files.txt
-├── RecycleBin/
-│ └── deleted_files/
-├── UserSystem/
-│ └── users.txt
-├── CloudQueue/
-│ └── tasks.txt
+-Root/
+-├── -folders/
+-│ ├──- subfolders/
+-│ └── -files.txt
+-├── -RecycleBin/
+-│ └── -deleted_files/
+-├── -UserSystem/
+-│ └── -users.txt
+-├── -CloudQueue/
+-│ └── -tasks.txt
 
 > Note: This structure is simulated in memory.
 
