@@ -106,7 +106,7 @@ A fully-featured file management system built in **C++**, simulating core functi
    cd File-Versioning-System
 
 2. Compile the code:
-   g++ -std=c++11 main.cpp -o file_system
+   g++ -std=c++11 Google Drive.cpp -o file_system
 
 3. Run the program:
    ./file_system
